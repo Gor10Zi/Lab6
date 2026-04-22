@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\нати\laba6\laba6\x64\Debug\laba6.vcxproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\нати\laba6\laba6\x64\Debug\laba6.MyForm.resources
+C:\Users\Laptop\Desktop\нати\laba6\laba6\x64\Debug\laba6.vcxproj.GenerateResource.cache
+C:\Users\HP\Downloads\laba-6--main\laba-6--main\laba6\laba6\x64\Debug\laba6.vcxproj.AssemblyReference.cache
+C:\Users\HP\Downloads\laba-6--main\laba-6--main\laba6\laba6\x64\Debug\laba6.MyForm.resources
+C:\Users\HP\Downloads\laba-6--main\laba-6--main\laba6\laba6\x64\Debug\laba6.vcxproj.GenerateResource.cache
